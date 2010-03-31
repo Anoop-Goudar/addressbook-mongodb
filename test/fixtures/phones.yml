@@ -1,0 +1,7 @@
+one:
+  type: MyString
+  number: MyString
+
+two:
+  type: MyString
+  number: MyString
